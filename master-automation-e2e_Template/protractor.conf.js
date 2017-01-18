@@ -1,7 +1,7 @@
 //jshint strict: false
 
 
-var HtmlReporter = require('protractor-html-screenshot-reporter'); //Trying to get this reporter to work
+var HtmlReporter = require('protractor-html-screenshot-reporter'); 
 var newReporter = new HtmlReporter({
     baseDirectory: './protractor-result',
     //metaDataBuilder: function metaDataBuilder(spec,descriptions,results,capabilities){
