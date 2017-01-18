@@ -3,10 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "description": "E2E Tests for the Holland America and Seabourn Websites",
-  "repository": "https://halprdgit01.hq.halw.com:8443/projects/WA",
+  "repository": "",
   "license": "HAP",
   "devDependencies": {
-    "bookingFlowPage": "./e2e-tests/pageObjects/booking/bookingFlowPage/",
     "bower": "^1.7.7",
     "gulp": "^3.9.1",
     "gulp-angular-protractor": "^0.2.0",
