@@ -11,18 +11,21 @@ There are 2 files to update The page Object and the Test Spec
 
 
 ### Your TEST
-You will use the page object in your spec to document items on the page and to use the listed method
+Use the page object in your spec for all test related elements
+You will use the page object to document all Elements you will verify
+You will use the listed method in the page object to navigate to page
 
-Navigate to page
-Verify some Info on page
-Click Button to continue
+Test Steps:
+Navigate to page from page object
+Verify some Info on page you are on
+Click Button to continue to next page
 verify next page has some unique content
 
 
 For extra credit - Get the Gulp task to run the URL without the need for a DOMAIN.
 
 
-
+Below is info on NPM and Gulp and Protractor
 
 ### Install Dependencies
 
