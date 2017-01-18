@@ -11,9 +11,9 @@ There are 2 files to update The page Object and the Test Spec
 
 
 ### Your TEST
-Use the page object in your spec for all test related elements
-You will use the page object to document all Elements you will verify
-You will use the listed method in the page object to navigate to page
+Use the page object in your spec for all test related elements.
+You will use the page object to document all Elements you will verify.
+You will use the listed method in the page object to navigate to page.
 
 Test Steps:
 Navigate to page from page object
